@@ -1,7 +1,7 @@
 import { resolve } from "path";
 import { fileURLToPath } from "url";
-import {
-  defineNuxtModule,
+import {                     ##importing
+  defineNuxtModule ,
   addPlugin,
   addServerMiddleware,
   addComponentsDir,
