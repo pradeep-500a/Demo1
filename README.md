@@ -7,6 +7,7 @@ Look at the Nuxt3 [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 Look at the Grid.js [grid.js documentation](https://gridjs.io/docs/index) to learn more.
 
 ## Setup
+# i have done
 
 Make sure to install the dependencies:
 
